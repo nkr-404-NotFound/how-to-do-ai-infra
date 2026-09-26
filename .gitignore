@@ -1,0 +1,4 @@
+.vscode
+experiment/__pycache__
+experiment/.venv
+.ds_store
